@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-image {
+  background: url('./assets/map.jpg');
+  background-repeat: no-repeat;
+  background-size: 800px auto;
+}
